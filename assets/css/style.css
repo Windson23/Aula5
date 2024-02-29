@@ -1,0 +1,28 @@
+.titulo_pag {
+    color: rgb(141, 155, 21);
+    text-align: center;
+}
+
+.box-sizing-element {
+    box-sizing: border-box;
+    width: 200px;
+    padding: 20px;
+    border: 1px solid black;
+    display:inline-block; 
+    margin-right: 20px; 
+    
+}
+
+.pai{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.relative_element {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
